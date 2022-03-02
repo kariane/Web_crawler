@@ -1,4 +1,4 @@
-# Teste Inovamind
+# Web Crawler
 
 ### 🛠 Tecnologias utilizadas
 - Ruby 3.0.0
@@ -16,11 +16,11 @@ Endpoints que solicitam Token:
 
 - Clone a aplicação
 ```bash
-git clone https://github.com/kariane/test_inovamind.git
+git clone https://github.com/kariane/Web_crawler.git
 ```
 - Entre no projeto
 ```bash
-cd test_inovamind
+cd Web_crawler
 ```
 - Instale as dependências
 ```bash
